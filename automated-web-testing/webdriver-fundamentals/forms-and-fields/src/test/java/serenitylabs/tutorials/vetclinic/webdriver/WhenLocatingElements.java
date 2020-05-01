@@ -111,6 +111,7 @@ public class WhenLocatingElements {
 
     @After
     public void shutdown() {
+
         driver.quit();
     }
 }
