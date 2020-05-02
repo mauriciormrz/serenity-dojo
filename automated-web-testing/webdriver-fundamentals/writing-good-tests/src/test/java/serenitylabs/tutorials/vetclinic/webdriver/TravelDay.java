@@ -7,13 +7,10 @@ public enum TravelDay {
     private final int daysInFuture;
 
     TravelDay(int daysInFuture) {
-
         this.daysInFuture = daysInFuture;
     }
 
     public int getDaysInFuture() {
-
         return daysInFuture;
     }
-
 }
