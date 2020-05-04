@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/serenity-junit-starter.iml" filepath="$PROJECT_DIR$/serenity-junit-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/action-classes.iml" filepath="$PROJECT_DIR$/action-classes.iml" />
     </modules>
   </component>
 </project>

@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="serenity-junit-starter" />
+        <module name="action-classes" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="serenity-junit-starter" target="1.8" />
+      <module name="action-classes" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
